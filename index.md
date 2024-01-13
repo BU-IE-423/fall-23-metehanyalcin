@@ -4,4 +4,4 @@ Metehan Yalçın's progress journal
  [HW Part 2 Pdf](IE423%20project%20part%202.pdf)
  [HW Part 2 Html](files/part2.html)
  [HW Part 3 Pdf](423%20project%20part%203.pdf)
- [HW Part 3 Html](files/part3.html)
+ [HW Part 3 Html](files/part3son.html)
